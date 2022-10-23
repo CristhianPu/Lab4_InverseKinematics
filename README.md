@@ -8,4 +8,4 @@ Primero se establecen los parametros de Denavit Hatenberg
 
 Por el metodo geometrico tenemos que 
 
-<p align="center"><img height=300 src="./Multimedia/Parametros.jpeg" alt="Menu" /></p>
+<p align="center"><img height=300 src="./Multimedia/ParametrosDH.png" alt="Menu" /></p>
