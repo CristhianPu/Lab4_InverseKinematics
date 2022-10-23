@@ -7,7 +7,11 @@ Primero se establecen los parametros de Denavit Hatenberg
 <p align="center"><img height=100 src="./Multimedia/ParametrosDH.PNG" alt="Parametros de Denavit Hatenberg" /></p>
 
 Conociendo las coordenadas de los puntos a los que queremos llevar el manipulador del robot (x,y,z) y usando el metodo geometrico tenemos que para la articulación 1:
-<p align="center"><img src="./Multimedia/Q1.PNG" alt="q1" /></p>
+<p align="center"><img src="./Multimedia/q1.PNG" alt="q1" /></p>
 
-como el movimiento de la articulación 3 se tiene que 
+Para este mecanismo se tiene 2 posibles configuraciones para las articulaciones 2 y 3, codo arriba y codo abajo. Para la articulacion 3 se tiene que:
 
+<p align="center"><img src="./Multimedia/q3.PNG" alt="q1" /></p>
+
+Con la articulacion 2 se plantea sus soluciones en función de las coordenadas y la articulacion 3.
+<p align="center"><img src="./Multimedia/q2.PNG" alt="q1" /></p>
