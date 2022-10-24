@@ -4,7 +4,7 @@ Este repositorio contiene la cinematica inversa para el robot PhantomX pincher.
 ### Cinematica Inversa
 
 Usando el diagrama mostrado a continuacion se desarrolla la cinematica inversa del manipulador PhantomX Pincher
-<p align="center"><img height=100 src="./Multimedia/Manipulador.PNG" alt="PhantomX Pincher" /></p>
+<p align="center"><img height=300 src="./Multimedia/Pincher.png" alt="PhantomX Pincher" /></p>
 
 Conociendo las coordenadas de los puntos a los que queremos llevar el manipulador del robot (x,y,z) y usando el metodo geometrico tenemos que para la articulación 1:
 <p align="center"><img src="./Multimedia/q1.PNG" alt="q1" /></p>
