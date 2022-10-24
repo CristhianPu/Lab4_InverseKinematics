@@ -3,8 +3,8 @@ Este repositorio contiene la cinematica inversa para el robot PhantomX pincher.
 
 ### Cinematica Inversa
 
-Primero se establecen los parametros de Denavit Hatenberg
-<p align="center"><img height=100 src="./Multimedia/ParametrosDH.PNG" alt="Parametros de Denavit Hatenberg" /></p>
+Usando el diagrama mostrado a continuacion se desarrolla la cinematica inversa del manipulador PhantomX Pincher
+<p align="center"><img height=100 src="./Multimedia/Manipulador.PNG" alt="PhantomX Pincher" /></p>
 
 Conociendo las coordenadas de los puntos a los que queremos llevar el manipulador del robot (x,y,z) y usando el metodo geometrico tenemos que para la articulación 1:
 <p align="center"><img src="./Multimedia/q1.PNG" alt="q1" /></p>
@@ -15,3 +15,5 @@ Para este mecanismo se tiene 2 posibles configuraciones para las articulaciones 
 
 Con la articulacion 2 se plantea sus soluciones en función de las coordenadas y la articulacion 3.
 <p align="center"><img src="./Multimedia/q2.PNG" alt="q1" /></p>
+
+Para la articulacion 4 se tiene que  
