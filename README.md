@@ -25,6 +25,8 @@ Aqui el pirobo de cristian explica qué hace del excel para atrás
 ### Modelo 2D 
 
 ### Construccion del Excel 
+Con la articulacion 2 se plantea sus soluciones en función de las coordenadas y la articulacion 3.
+<p align="center"><img src="./Multimedia/Excel.jpeg" alt="q1" /></p>
 
 ### Manejo de datos (valores articulares)
 Una vez se obtienen los valores articulares se procede a generar una matriz nx5 con la sintaxis requerida por python, esta matriz se copia al script Datos.py y se genera una función que acceda al vector requerido dentro de la matriz, a continuación se muestra la logica de programación descrita
