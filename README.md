@@ -91,3 +91,21 @@ python3 CP_Lab5.py
  Una vez ejecutado el comando see desplegará el siguiente menú:
  
 <p align="center"><img src="./Multimedia/Eject.jpg" alt="q1" /></p>
+
+## Rutinas:
+
+
+### Cargar herramienta: 
+el brazo se desplaza a la base porta herramienta, sujeta el marcador y se ubica en una posición de espera.
+### Espacio de trabajo: 
+el brazo dibuja dos arcos que representan los limites de espacio de trabajo diestro plano sobre la superficie y regresa a una posici´on de espera.
+### Dibujo de Iniciales:
+El brazo dibuja al menos dos letras, iniciales de los nombres de los estudiantes, sobre la superficie y retorna a una posici´on de espera.
+### Dibujo de figuras geométricas: 
+Se dibuja sobre la superficie un triangulo equil´atero, una circunferencia y 3 lineas rectas paralelas y regresa a una posici´on de espera.
+### Dibujo de puntos: 
+El brazo dibuja 5 puntos equidistantes y regresa a una posición de espera.
+### Dibujo figura libre: 
+Se dibuja una figura libre que utilice trazos rectos tanto curvos y regresa a una posición de espera.
+### Descarga de la herramienta
+El brazo se desplaza a la base porta herramienta, suelta el marcador y se ubica en una posición de Home
