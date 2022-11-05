@@ -105,10 +105,15 @@ python3 CP_Lab5.py
 
 ### Cargar herramienta: 
 El brazo se desplaza a la base porta herramienta, sujeta el marcador y se ubica en una posición de espera.
+
 ### Espacio de trabajo: 
 El brazo dibuja dos arcos que representan los limites de espacio de trabajo diestro plano sobre la superficie y regresa a una posici´on de espera.
+
+https://user-images.githubusercontent.com/53317895/200101401-9e6d4beb-df66-4d5f-95bc-becbbc22991a.mp4
+
 ### Dibujo de Iniciales:
 El brazo dibuja al menos dos letras, iniciales de los nombres de los estudiantes, sobre la superficie y retorna a una posici´on de espera.
+
 https://user-images.githubusercontent.com/53317895/200101097-44e25cb5-95ff-4c8e-b136-d099d4383f17.mp4
 
 ### Dibujo de figuras geométricas: 
