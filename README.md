@@ -125,6 +125,9 @@ https://user-images.githubusercontent.com/53317895/200101737-17d6cb65-7b63-41c1-
 
 ### Dibujo de puntos: 
 El brazo dibuja 5 puntos equidistantes y regresa a una posición de espera.
+
+https://user-images.githubusercontent.com/53317895/200101786-1a68fdba-860b-4380-9ed2-d60922fb5f6b.mp4
+
 ### Dibujo figura libre: 
 Se dibuja una figura libre que utilice trazos rectos tanto curvos y regresa a una posición de espera.
 
