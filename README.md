@@ -20,15 +20,23 @@ Para este mecanismo se tiene 2 posibles configuraciones para las articulaciones 
 Con la articulacion 2 se plantea sus soluciones en función de las coordenadas y la articulacion 3.
 <p align="center"><img src="./Multimedia/q2.PNG" alt="q1" /></p>
 
-Para la articulacion 4 se tiene que  
+Como se requiere que el herramienta sea perpendicular al plano de trabajo, para la articulacion 4 se tiene que:
+
 
 ## Metodología 
-Aqui el pirobo de cristian explica qué hace del excel para atrás 
+
 ### Modelo 2D 
 
+Para la obtencion de las rutinas solicitadas se elaboro un boceto en fusion 360 como se muestra en la siguiente imagen.
+
+<p align="center"><img src="./Multimedia/Captura.png" alt="q1" /></p>
+Con este boceto se obtuvieron las coordenadas X y Y  que conforman las trayectorias de la mayoria de las rutinas, pues para el circulo se utilizo un despeje algebraico y se tomaron puntos cada 5°.
+
 ### Construccion del Excel 
-Con la articulacion 2 se plantea sus soluciones en función de las coordenadas y la articulacion 3.
+Con las formulas obtenidas en la seccion de cinemtica inversa y las coordenadas de los puntos que se requieren para cada trayectoria se construye un excel para determinar el valor de cada articulación como se muestra en la siguiente imagen.
+
 <p align="center"><img src="./Multimedia/Excel.jpeg" alt="q1" /></p>
+
 
 ### Manejo de datos (valores articulares)
 Una vez se obtienen los valores articulares se procede a generar una matriz nx5 con la sintaxis requerida por python, esta matriz se copia al script Datos.py y se genera una función que acceda al vector requerido dentro de la matriz, a continuación se muestra la logica de programación descrita
@@ -117,3 +125,8 @@ El brazo se desplaza a la base porta herramienta, suelta el marcador y se ubica 
 <p align="center"><img src="./Multimedia/20.jpg" alt="q1" /></p>
 <p align="center"><img src="./Multimedia/30.jpg" alt="q1" /></p>
 <p align="center"><img src="./Multimedia/40.jpg" alt="q1" /></p>
+
+## Conclusiones
+
+Durante el desarrollo de la practica se presentaron inconvenientes con la postura del manipulador, pues el manipulador tiende a desplazarce en la dirreción z postiva, es decir a levatar la herramienta del plano de trabajo a medida que se acerca al minimo espacio alcansable, por ello fue necesario modificar la herramienta de con un resorte como se muesta en la siguiente figura, y ajustar las coordenadas agregando un offset en la direccion z como se evidencia en el excel de coordenadas anexado.
+<p align="center"><img src="./Multimedia/Excel.jpeg" alt="q1" /></p>
