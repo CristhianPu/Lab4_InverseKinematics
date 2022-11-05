@@ -106,6 +106,8 @@ python3 CP_Lab5.py
 ### Cargar herramienta: 
 El brazo se desplaza a la base porta herramienta, sujeta el marcador y se ubica en una posición de espera.
 
+https://user-images.githubusercontent.com/53317895/200101253-04920232-730c-4ce9-bf72-648ea674d51f.mp4
+
 ### Espacio de trabajo: 
 El brazo dibuja dos arcos que representan los limites de espacio de trabajo diestro plano sobre la superficie y regresa a una posici´on de espera.
 
