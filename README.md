@@ -20,20 +20,14 @@ Para este mecanismo se tiene 2 posibles configuraciones para las articulaciones 
 Con la articulacion 2 se plantea sus soluciones en función de las coordenadas y la articulacion 3.
 <p align="center"><img src="./Multimedia/q2.PNG" alt="q1" /></p>
 
-Como se requiere que el herramienta sea perpendicular al plano de trabajo, para la articulacion 4 se tiene que:
-
+Para la articulacion 4 se tiene que  
 
 ## Metodología 
-
+Aqui el pirobo de cristian explica qué hace del excel para atrás 
 ### Modelo 2D 
 
-Para la obtencion de las rutinas solicitadas se elaboro un boceto en fusion 360 como se muestra en la siguiente imagen.
-<p align="center"><img src="./Multimedia/Excel.jpeg" alt="q1" /></p>
-Con este boceto se obtuvieron las coordenadas X y Y  que conforman las trayectorias de la mayoria de las rutinas, pues para el circulo se utilizo un despeje algebraico y se tomaron puntos cada 5°.
-
 ### Construccion del Excel 
-Con las formulas obtenidas en la seccion de cinemtica inversa y las coordenadas de los puntos que se requieren para cada trayectoria se construye un excel para determinar el valor de cada articulación como se muestra en la siguiente imagen.
-
+Con la articulacion 2 se plantea sus soluciones en función de las coordenadas y la articulacion 3.
 <p align="center"><img src="./Multimedia/Excel.jpeg" alt="q1" /></p>
 
 ### Manejo de datos (valores articulares)
@@ -116,15 +110,8 @@ Se dibuja una figura libre que utilice trazos rectos tanto curvos y regresa a un
 ### Descarga de la herramienta
 El brazo se desplaza a la base porta herramienta, suelta el marcador y se ubica en una posición de Home
 
-## Comprobacion de las Rutinas
+## Analisis de resultados 
 
-Para evaluar el error en las rutinas desarrollaras, se tranpone el boceto a partir del cual se obtubieron las coordenadas de los puntos que conforman las trayectorias
-con una imagen tomada desde una vista superior, como se muestra en la siguiente imagen. 
-<p align="center"><img src="./Multimedia/Excel.jpeg" alt="q1" /></p>
-
-Apesar de la distorcion en las dimensiones que se puedan dar por efecto de la fotografia se evidencia una similtud bastante aceptable.
-
-## Conclusiones
-
-Durante el desarrollo de la practica se presentaron inconvenientes con la postura del manipulador, pues el manipulador tiende a desplazarce en la dirreción z postiva, es decir a levatar la herramienta del plano de trabajo a medida que se acerca al minimo espacio alcansable, por ello fue necesario modificar la herramienta de con un resorte como se muesta en la siguiente figura, y ajustar las coordenadas agregando un offset en la direccion z como se evidencia en el excel de coordenadas anexado.
-<p align="center"><img src="./Multimedia/Excel.jpeg" alt="q1" /></p>
+<p align="center"><img src="./Multimedia/Result.jpg" alt="q1" /></p>
+<p align="center"><img src="./Multimedia/11.jpg" alt="q1" /></p>
+<p align="center"><img src="./Multimedia/12.jpg" alt="q1" /></p>
