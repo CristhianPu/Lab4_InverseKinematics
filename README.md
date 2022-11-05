@@ -88,4 +88,6 @@ En una nueva terminal:
 python3 CP_Lab5.py
 
 ```
+ Una vez ejecutado el comando see desplegará el siguiente menú:
  
+<p align="center"><img src="./Multimedia/Eject.jpg" alt="q1" /></p>
