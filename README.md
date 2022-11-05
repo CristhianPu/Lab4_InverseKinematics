@@ -3,7 +3,7 @@ Este repositorio contiene el desarrollo del laboratorio 5 de Robotica, en el cua
 
 https://user-images.githubusercontent.com/53317895/200093765-734eb816-6740-46a2-9a6c-638e2003faaa.mp4
 
-Nota: Este video se encuentra a una velocidad aumentada de 5x 
+*Nota:* Este video se encuentra a una velocidad aumentada de 10X , en la sección de rutinas se encuentran los videos a velocidad normal distribuidos según la rutina 
 
 ## Cinematica Inversa
 
