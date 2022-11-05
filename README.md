@@ -109,3 +109,7 @@ El brazo dibuja 5 puntos equidistantes y regresa a una posición de espera.
 Se dibuja una figura libre que utilice trazos rectos tanto curvos y regresa a una posición de espera.
 ### Descarga de la herramienta
 El brazo se desplaza a la base porta herramienta, suelta el marcador y se ubica en una posición de Home
+
+## Analisis de resultados 
+
+
