@@ -1,6 +1,8 @@
 # Laboratorio 5: PhantomX Pincher
 Este repositorio contiene el desarrollo del laboratorio 5 de Robotica, en el cual se realiza la cinematica inversa del robot PhantomX Pincher con el objetivo de implementarlo en una aplicación de escritura, que se logra a partir de un script de python que envia al robot los valores articulares hallados con la cinematica inversa según la rutina seleccionada por el usuario.
 
+https://user-images.githubusercontent.com/53317895/200093643-c22f47ca-f41d-433c-8ae3-6c618e098705.mp4
+
 Nota: Este video se encuentra a una velocidad aumentada de 5x 
 
 ## Cinematica Inversa
