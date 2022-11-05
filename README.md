@@ -71,3 +71,19 @@ El script consiste en un case que relaciona las diferentes rutinas con los numer
             fin2 = time.time()
             print(f"Tiempo de ejecución de rutina {fin2-inicio2} s")        
 ```
+
+## Ejecución del código 
+Para la ejecución del codigó es necesario clonar el repositorio de Felipe Gonzalez [dynamixel_one_motor](https://github.com/fegonzalez7/dynamixel_one_motor.git), siguiendo las instrucciones de instalación y verificación, enseguida se procede a clonar los scripts CP_Lab5.py y datos.py en la carpeta scrips de ese repositorio. 
+Una vez realizada la instalación de paquetes se puede ejecutar el código mediante los siguientes comandos: 
+
+```
+roslaunch dynamixel_one_motor one_controller.launch
+
+```
+En una nueva terminal: 
+
+```
+python3 CP_Lab5.py
+
+```
+ 
