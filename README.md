@@ -131,6 +131,9 @@ https://user-images.githubusercontent.com/53317895/200101786-1a68fdba-860b-4380-
 ### Dibujo figura libre: 
 Se dibuja una figura libre que utilice trazos rectos tanto curvos y regresa a una posición de espera.
 
+https://user-images.githubusercontent.com/53317895/200101943-021bb1c2-41be-4db1-88e9-9d4ebd6341bc.mp4
+
+
 ### Descarga de la herramienta
 El brazo se desplaza a la base porta herramienta, suelta el marcador y se ubica en una posición de Home
 
