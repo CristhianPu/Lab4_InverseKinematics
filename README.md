@@ -120,12 +120,18 @@ https://user-images.githubusercontent.com/53317895/200101097-44e25cb5-95ff-4c8e-
 
 ### Dibujo de figuras geométricas: 
 Se dibuja sobre la superficie un triangulo equil´atero, una circunferencia y 3 lineas rectas paralelas y regresa a una posici´on de espera.
+
+https://user-images.githubusercontent.com/53317895/200101737-17d6cb65-7b63-41c1-b30a-2d3759c51bd9.mp4
+
 ### Dibujo de puntos: 
 El brazo dibuja 5 puntos equidistantes y regresa a una posición de espera.
 ### Dibujo figura libre: 
 Se dibuja una figura libre que utilice trazos rectos tanto curvos y regresa a una posición de espera.
+
 ### Descarga de la herramienta
 El brazo se desplaza a la base porta herramienta, suelta el marcador y se ubica en una posición de Home
+
+https://user-images.githubusercontent.com/53317895/200101685-506f59d6-a387-43d4-b903-0777902f8801.mp4
 
 ## Comprobacion de las Rutinas
 
