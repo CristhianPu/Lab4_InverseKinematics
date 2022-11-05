@@ -138,8 +138,7 @@ https://user-images.githubusercontent.com/53317895/200101685-506f59d6-a387-43d4-
 
 ## Comprobacion de las Rutinas
 
-Para evaluar el error en las rutinas desarrollaras, se tranpone el boceto a partir del cual se obtubieron las coordenadas de los puntos que conforman las trayectorias
-con una imagen tomada desde una vista superior, como se muestra en la siguiente imagen. 
+Para evaluar el error en las rutinas desarrollaras, se transpone el boceto a partir del cual se obtuvieron las coordenadas de los puntos que conforman las trayectorias con una imagen tomada desde una vista superior, como se muestra en la siguiente imagen. 
 <p align="center"><img src="./Multimedia/Captura.PNG" width="500" alt="q1" /></p>
 Apesar de la distorcion en las dimensiones que se puedan dar por efecto de la fotografia se evidencia una similtud bastante aceptable. Para una mejor visualización se recortaron y rotaron cada una de las trayectorias obtenidas como se muestra a continuación:
 
