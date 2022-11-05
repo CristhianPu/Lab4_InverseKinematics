@@ -125,12 +125,13 @@ con una imagen tomada desde una vista superior, como se muestra en la siguiente 
 <p align="center"><img src="./Multimedia/Captura.PNG" width="500" alt="q1" /></p>
 Apesar de la distorcion en las dimensiones que se puedan dar por efecto de la fotografia se evidencia una similtud bastante aceptable. Para una mejor visualización se recortaron y rotaron cada una de las trayectorias obtenidas como se muestra a continuación:
 
-<p align="center"><img src="./Multimedia/11.jpg" alt="q1" /></p> <p align="center"><img src="./Multimedia/12.jpg" alt="q1" /></p>
-<p align="center"><img src="./Multimedia/20.jpg" alt="q1" /></p>
-<p align="center"><img src="./Multimedia/30.jpg" alt="q1" /></p>
-<p align="center"><img src="./Multimedia/40.jpg" alt="q1" /></p>
+<p align="center"><img src="./Multimedia/11.jpg" width="200" alt="q1" /></p> <p align="center"><img src="./Multimedia/12.jpg" width="200"alt="q1" /></p>
+<p align="center"><img src="./Multimedia/20.jpg" width="200" alt="q1" /></p>
+<p align="center"><img src="./Multimedia/30.jpg" width="200" alt="q1" /></p>
+<p align="center"><img src="./Multimedia/40.jpg" width="200" alt="q1" /></p>
 
 ## Conclusiones
 
 Durante el desarrollo de la practica se presentaron inconvenientes con la postura del manipulador, pues el manipulador tiende a desplazarce en la dirreción z postiva, es decir a levatar la herramienta del plano de trabajo a medida que se acerca al minimo espacio alcansable, por ello fue necesario modificar la herramienta de con un resorte como se muesta en la siguiente figura, y ajustar las coordenadas agregando un offset en la direccion z como se evidencia en el excel de coordenadas anexado.
-<p align="center"><img src="./Multimedia/Excel.jpeg" alt="q1" /></p>
+
+# Pon aqui el video del portaherramienta
