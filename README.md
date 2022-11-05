@@ -150,6 +150,8 @@ Apesar de la distorcion en las dimensiones que se puedan dar por efecto de la fo
 <p align="center"><img src="./Multimedia/30.jpg" width="200" alt="q1" /></p>
 <p align="center"><img src="./Multimedia/40.jpg" width="200" alt="q1" /></p>
 
+Se evidencia un error máximo de dos centimetros generado por un mal alejamiento de la herramienta, asi mismo, se evidencia un error constante que oscila al rededor de los 4 mm derivado de la vibración o inestabilidad del robot
+
 ## Conclusiones
 
 Durante el desarrollo de la practica se presentaron inconvenientes con la postura del manipulador, pues el manipulador tiende a desplazarce en la dirreción z postiva, es decir a levatar la herramienta del plano de trabajo a medida que se acerca al minimo espacio alcansable, por ello fue necesario modificar la herramienta de con un resorte como se muesta en la siguiente figura, y ajustar las coordenadas agregando un offset en la direccion z como se evidencia en el excel de coordenadas anexado.
