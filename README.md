@@ -109,6 +109,8 @@ El brazo se desplaza a la base porta herramienta, sujeta el marcador y se ubica 
 El brazo dibuja dos arcos que representan los limites de espacio de trabajo diestro plano sobre la superficie y regresa a una posici´on de espera.
 ### Dibujo de Iniciales:
 El brazo dibuja al menos dos letras, iniciales de los nombres de los estudiantes, sobre la superficie y retorna a una posici´on de espera.
+https://user-images.githubusercontent.com/53317895/200101097-44e25cb5-95ff-4c8e-b136-d099d4383f17.mp4
+
 ### Dibujo de figuras geométricas: 
 Se dibuja sobre la superficie un triangulo equil´atero, una circunferencia y 3 lineas rectas paralelas y regresa a una posici´on de espera.
 ### Dibujo de puntos: 
