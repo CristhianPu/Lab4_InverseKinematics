@@ -134,4 +134,4 @@ Apesar de la distorcion en las dimensiones que se puedan dar por efecto de la fo
 
 Durante el desarrollo de la practica se presentaron inconvenientes con la postura del manipulador, pues el manipulador tiende a desplazarce en la dirreción z postiva, es decir a levatar la herramienta del plano de trabajo a medida que se acerca al minimo espacio alcansable, por ello fue necesario modificar la herramienta de con un resorte como se muesta en la siguiente figura, y ajustar las coordenadas agregando un offset en la direccion z como se evidencia en el excel de coordenadas anexado.
 
-# Pon aqui el video del portaherramienta
+https://user-images.githubusercontent.com/53317895/200100283-9ccf2227-a011-4d1b-9d62-f28d498972d7.mp4
