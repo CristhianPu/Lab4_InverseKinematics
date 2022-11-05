@@ -29,7 +29,7 @@ Como se requiere que el herramienta sea perpendicular al plano de trabajo, para 
 
 Para la obtencion de las rutinas solicitadas se elaboro un boceto en fusion 360 como se muestra en la siguiente imagen.
 
-<p align="center"><img src="./Multimedia/Captura.png" alt="q1" /></p>
+<p align="center"><img src="./Multimedia/Captura2.PNG" width="500" alt="q1" /></p>
 Con este boceto se obtuvieron las coordenadas X y Y  que conforman las trayectorias de la mayoria de las rutinas, pues para el circulo se utilizo un despeje algebraico y se tomaron puntos cada 5°.
 
 ### Construccion del Excel 
@@ -118,9 +118,13 @@ Se dibuja una figura libre que utilice trazos rectos tanto curvos y regresa a un
 ### Descarga de la herramienta
 El brazo se desplaza a la base porta herramienta, suelta el marcador y se ubica en una posición de Home
 
-## Analisis de resultados 
+## Comprobacion de las Rutinas
 
-<p align="center"><img src="./Multimedia/Result.jpg" alt="q1" /></p>
+Para evaluar el error en las rutinas desarrollaras, se tranpone el boceto a partir del cual se obtubieron las coordenadas de los puntos que conforman las trayectorias
+con una imagen tomada desde una vista superior, como se muestra en la siguiente imagen. 
+<p align="center"><img src="./Multimedia/Captura.PNG" width="500" alt="q1" /></p>
+Apesar de la distorcion en las dimensiones que se puedan dar por efecto de la fotografia se evidencia una similtud bastante aceptable. Para una mejor visualización se recortaron y rotaron cada una de las trayectorias obtenidas como se muestra a continuación:
+
 <p align="center"><img src="./Multimedia/11.jpg" alt="q1" /></p> <p align="center"><img src="./Multimedia/12.jpg" alt="q1" /></p>
 <p align="center"><img src="./Multimedia/20.jpg" alt="q1" /></p>
 <p align="center"><img src="./Multimedia/30.jpg" alt="q1" /></p>
