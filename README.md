@@ -113,5 +113,7 @@ El brazo se desplaza a la base porta herramienta, suelta el marcador y se ubica 
 ## Analisis de resultados 
 
 <p align="center"><img src="./Multimedia/Result.jpg" alt="q1" /></p>
-<p align="center"><img src="./Multimedia/11.jpg" alt="q1" /></p>
-<p align="center"><img src="./Multimedia/12.jpg" alt="q1" /></p>
+<p align="center"><img src="./Multimedia/11.jpg" alt="q1" /></p> <p align="center"><img src="./Multimedia/12.jpg" alt="q1" /></p>
+<p align="center"><img src="./Multimedia/20.jpg" alt="q1" /></p>
+<p align="center"><img src="./Multimedia/30.jpg" alt="q1" /></p>
+<p align="center"><img src="./Multimedia/40.jpg" alt="q1" /></p>
