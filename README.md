@@ -21,7 +21,7 @@ Con la articulacion 2 se plantea sus soluciones en función de las coordenadas y
 <p align="center"><img src="./Multimedia/q2.PNG" alt="q1" /></p>
 
 Como se requiere que el herramienta sea perpendicular al plano de trabajo, para la articulacion 4 se tiene que:
-
+<p align="center"><img src="./Multimedia/q4.PNG" alt="q1" /></p>
 
 ## Metodología 
 
